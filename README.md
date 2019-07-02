@@ -1,2 +1,2 @@
 # spinnaker
-Tessting and getting hands on Spinnaker.
+Testing and getting hands on Spinnaker.
