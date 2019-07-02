@@ -5,4 +5,4 @@ steps:
   - name: "gcr.io/cloud-builders/docker"
     args: ["build", "-t", "gcr.io/linear-quasar-233321/spinnaker:$REVISION_ID", "-f", "Dockerfile", "."]
 images:
-  - "gcr.io/{GCP_PROJECT_ID}/spinnaker:$REVISION_ID"
+  - "gcr.io/linear-quasar-233321/spinnaker:$REVISION_ID"
